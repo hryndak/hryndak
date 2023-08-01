@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋, I'm Hubert Ryndak</h1>
 <h3 align="center">A self taught programmer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hryndak&label=Profile%20views&color=0e75b6&style=flat" alt="hryndak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hryndak" alt="hryndak" /></a> </p>
-
 - 🌱 I’m currently learning **React , AI**
 
 - 📫 How to reach me **ryndak65@gmail.com**
