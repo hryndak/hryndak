@@ -7,5 +7,6 @@ A selft taught programmer from Poland with huge passion
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hryndak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
+<detalis>
 <summary><h3>👨‍💻My Coding Journey</h3></summary>
 bkl;fasl;kdfbnabflakdbjf;akdbnfa;kdfbj
