@@ -1,5 +1,5 @@
 # 💫 About Me:
-A selft taught programmer from Poland with huge passion
+A self taught programmer from Poland with huge passion
 
 
 # 💻 Tech Stack:
